@@ -3,8 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bitwise": "^2.0.4",
+    "gpu.js": "^2.2.1",
+    "imagetracerjs": "^1.2.5",
+    "konva": "^4.0.18",
+    "pako": "^1.0.10",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "react-konva": "^16.10.1-0",
     "react-scripts": "3.2.0"
   },
   "scripts": {
@@ -27,5 +33,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "magic-wand-js": "^1.0.0",
+    "opencv.js": "^1.2.1"
   }
 }
